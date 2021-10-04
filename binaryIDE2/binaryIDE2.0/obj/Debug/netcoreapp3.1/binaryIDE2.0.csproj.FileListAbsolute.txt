@@ -1,0 +1,17 @@
+C:\Users\Komand\Desktop\binaryIDE2\binaryIDE2.0\bin\Debug\netcoreapp3.1\binaryIDE2.0.exe
+C:\Users\Komand\Desktop\binaryIDE2\binaryIDE2.0\bin\Debug\netcoreapp3.1\binaryIDE2.0.deps.json
+C:\Users\Komand\Desktop\binaryIDE2\binaryIDE2.0\bin\Debug\netcoreapp3.1\binaryIDE2.0.runtimeconfig.json
+C:\Users\Komand\Desktop\binaryIDE2\binaryIDE2.0\bin\Debug\netcoreapp3.1\binaryIDE2.0.runtimeconfig.dev.json
+C:\Users\Komand\Desktop\binaryIDE2\binaryIDE2.0\bin\Debug\netcoreapp3.1\binaryIDE2.0.dll
+C:\Users\Komand\Desktop\binaryIDE2\binaryIDE2.0\bin\Debug\netcoreapp3.1\binaryIDE2.0.pdb
+C:\Users\Komand\Desktop\binaryIDE2\binaryIDE2.0\obj\Debug\netcoreapp3.1\binaryIDE2.0.csproj.GenerateResource.cache
+C:\Users\Komand\Desktop\binaryIDE2\binaryIDE2.0\obj\Debug\netcoreapp3.1\binaryIDE2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komand\Desktop\binaryIDE2\binaryIDE2.0\obj\Debug\netcoreapp3.1\binaryIDE2.0.AssemblyInfoInputs.cache
+C:\Users\Komand\Desktop\binaryIDE2\binaryIDE2.0\obj\Debug\netcoreapp3.1\binaryIDE2.0.AssemblyInfo.cs
+C:\Users\Komand\Desktop\binaryIDE2\binaryIDE2.0\obj\Debug\netcoreapp3.1\binaryIDE2.0.csproj.CoreCompileInputs.cache
+C:\Users\Komand\Desktop\binaryIDE2\binaryIDE2.0\obj\Debug\netcoreapp3.1\binaryIDE2.0.dll
+C:\Users\Komand\Desktop\binaryIDE2\binaryIDE2.0\obj\Debug\netcoreapp3.1\binaryIDE2.0.pdb
+C:\Users\Komand\Desktop\binaryIDE2\binaryIDE2.0\obj\Debug\netcoreapp3.1\binaryIDE2.0.genruntimeconfig.cache
+C:\Users\Komand\Desktop\binaryIDE2\binaryIDE2.0\obj\Debug\netcoreapp3.1\binaryIDE2.0.csproj.AssemblyReference.cache
+C:\Users\Komand\Desktop\binaryIDE2\binaryIDE2.0\obj\Debug\netcoreapp3.1\binaryIDE2._0.one.resources
+C:\Users\Komand\Desktop\binaryIDE2\binaryIDE2.0\obj\Debug\netcoreapp3.1\binaryIDE2._0.two.resources
