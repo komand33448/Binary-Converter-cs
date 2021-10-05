@@ -16,13 +16,20 @@ namespace binaryIDE2._0
         public one()
         {
             InitializeComponent();
-        }        
+        }
+        
+        //darkButton er den knap man trykker på for darkmode
         private void darkButton_Click(object sender, EventArgs e)
         {
+            //sike er navnet på det label som kommer frem når
+            //man tænder darkmode
             sike.Text = "Lol you wish";            
         }
+        
+        //inputTaker er boksen der tager imod user input
         private void inputTaker_TextChanged_1(object sender, EventArgs e)
         {
+            //hel og lykke...
             int remainder;
             int userInputG;
             string result = string.Empty;
@@ -38,6 +45,7 @@ namespace binaryIDE2._0
             
             ans.Text = result;
         }
+        //button1 er knappen man bruger for at skifte fra "decimal to binary" til "binary to decimal"
         private void button1_Click(object sender, EventArgs e)
         {
             two c = new two();
