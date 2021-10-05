@@ -29,7 +29,7 @@ namespace binaryIDE2._0
         //inputTaker er boksen der tager imod user input
         private void inputTaker_TextChanged_1(object sender, EventArgs e)
         {
-            //hel og lykke...
+            //den her del tager user input og laver det om til binary
             int remainder;
             int userInputG;
             string result = string.Empty;
@@ -53,7 +53,7 @@ namespace binaryIDE2._0
             c.ShowDialog();
             this.Close();
         }
-        //useless shit 
+        //useless shit
         private void Form1_Load(object sender, EventArgs e)
         {
 
