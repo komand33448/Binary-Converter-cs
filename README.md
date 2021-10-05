@@ -1,3 +1,3 @@
 # binaryConverter
-(not done)<br>
-This is a random school project where I tried to make a binary converter in windows forms c# that would be able to convert binary to decimals and decimals to binary
+jeg har droppet projectet for nu, men jeg kommer nok tilbage til det når jeg har lært lidt mere om c#<br>
+ind til videre så virker tal til binary og dark mode <br>
